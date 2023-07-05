@@ -1,0 +1,294 @@
+
+ID: 28
+Titulo: Brotherhood of Death
+Genero: Action
+Duracion: 240
+-----------------------------
+
+ID: 44
+Titulo: Gabriel
+Genero: Action
+Duracion: 186
+-----------------------------
+
+ID: 27
+Titulo: Powerpuff Girls
+Genero: Action
+Duracion: 129
+-----------------------------
+
+ID: 18
+Titulo: Headhunters
+Genero: Action
+Duracion: 125
+-----------------------------
+
+ID: 15
+Titulo: Antarctica
+Genero: Adventure
+Duracion: 221
+-----------------------------
+
+ID: 40
+Titulo: Invincible Iron Man
+Genero: Animation
+Duracion: 162
+-----------------------------
+
+ID: 14
+Titulo: Open Season
+Genero: Animation
+Duracion: 104
+-----------------------------
+
+ID: 46
+Titulo: The Man Who Shook
+Genero: Comedy
+Duracion: 236
+-----------------------------
+
+ID: 4
+Titulo: Monster in a Box
+Genero: Comedy
+Duracion: 231
+-----------------------------
+
+ID: 17
+Titulo: Wild Tales
+Genero: Comedy
+Duracion: 218
+-----------------------------
+
+ID: 22
+Titulo: Lobo
+Genero: Comedy
+Duracion: 210
+-----------------------------
+
+ID: 29
+Titulo: Music Within
+Genero: Comedy
+Duracion: 198
+-----------------------------
+
+ID: 47
+Titulo: Boy Meets Girl
+Genero: Comedy
+Duracion: 189
+-----------------------------
+
+ID: 43
+Titulo: Strike Up the Band
+Genero: Comedy
+Duracion: 169
+-----------------------------
+
+ID: 5
+Titulo: Lovely Amazing
+Genero: Comedy
+Duracion: 169
+-----------------------------
+
+ID: 48
+Titulo: True Confession
+Genero: Comedy
+Duracion: 143
+-----------------------------
+
+ID: 23
+Titulo: Only Old Men
+Genero: Comedy
+Duracion: 141
+-----------------------------
+
+ID: 9
+Titulo: Fools Parade
+Genero: Comedy
+Duracion: 132
+-----------------------------
+
+ID: 24
+Titulo: Killing Bono
+Genero: Comedy
+Duracion: 130
+-----------------------------
+
+ID: 41
+Titulo: Professor Beware
+Genero: Comedy
+Duracion: 118
+-----------------------------
+
+ID: 26
+Titulo: Waiting
+Genero: Comedy
+Duracion: 109
+-----------------------------
+
+ID: 7
+Titulo: Mannequin
+Genero: Comedy
+Duracion: 104
+-----------------------------
+
+ID: 8
+Titulo: Rouva presidentti
+Genero: Documentary
+Duracion: 201
+-----------------------------
+
+ID: 31
+Titulo: One Shot
+Genero: Documentary
+Duracion: 145
+-----------------------------
+
+ID: 13
+Titulo: Werckmeister Harmonies
+Genero: Drama
+Duracion: 226
+-----------------------------
+
+ID: 2
+Titulo: My Brother the Devil
+Genero: Drama
+Duracion: 225
+-----------------------------
+
+ID: 38
+Titulo: The End of the Tour
+Genero: Drama
+Duracion: 222
+-----------------------------
+
+ID: 11
+Titulo: Longtime Companion
+Genero: Drama
+Duracion: 222
+-----------------------------
+
+ID: 20
+Titulo: Doors
+Genero: Drama
+Duracion: 220
+-----------------------------
+
+ID: 37
+Titulo: Finding Forrester
+Genero: Drama
+Duracion: 219
+-----------------------------
+
+ID: 3
+Titulo: Criminal
+Genero: Drama
+Duracion: 207
+-----------------------------
+
+ID: 35
+Titulo: G Men
+Genero: Drama
+Duracion: 200
+-----------------------------
+
+ID: 42
+Titulo: Beans of Egypt
+Genero: Drama
+Duracion: 195
+-----------------------------
+
+ID: 16
+Titulo: Love in the Afternoon
+Genero: Drama
+Duracion: 188
+-----------------------------
+
+ID: 30
+Titulo: Bedford Incident
+Genero: Drama
+Duracion: 187
+-----------------------------
+
+ID: 19
+Titulo: Moby Dick
+Genero: Drama
+Duracion: 177
+-----------------------------
+
+ID: 36
+Titulo: Camp
+Genero: Drama
+Duracion: 164
+-----------------------------
+
+ID: 50
+Titulo: Short Film About Love
+Genero: Drama
+Duracion: 157
+-----------------------------
+
+ID: 34
+Titulo: Little Girl
+Genero: Drama
+Duracion: 138
+-----------------------------
+
+ID: 33
+Titulo: Twilight of a Woman
+Genero: Drama
+Duracion: 109
+-----------------------------
+
+ID: 45
+Titulo: Killjoy 3
+Genero: Horror
+Duracion: 162
+-----------------------------
+
+ID: 10
+Titulo: Hitcher
+Genero: Horror
+Duracion: 150
+-----------------------------
+
+ID: 21
+Titulo: Dont Look in the Basement
+Genero: Horror
+Duracion: 109
+-----------------------------
+
+ID: 32
+Titulo: Troll
+Genero: Horror
+Duracion: 101
+-----------------------------
+
+ID: 25
+Titulo: My Friend Irma Goes
+Genero: Musical
+Duracion: 216
+-----------------------------
+
+ID: 12
+Titulo: San Francisco
+Genero: Musical
+Duracion: 161
+-----------------------------
+
+ID: 6
+Titulo: Sleeping Dictionary
+Genero: Romance
+Duracion: 204
+-----------------------------
+
+ID: 39
+Titulo: Night Court
+Genero: Thriller
+Duracion: 186
+-----------------------------
+
+ID: 49
+Titulo: Violent Men
+Genero: Western
+Duracion: 116
+-----------------------------
